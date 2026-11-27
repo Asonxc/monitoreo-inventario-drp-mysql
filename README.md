@@ -35,7 +35,7 @@ El sistema simula una tienda en línea conectada a la base de datos `bd_hm_retai
         ├── img/<ID_Producto>.jpg       Imágenes del catálogo
         └── *.png                       Identidad visual (incrustada también en alertas HTML)
 
-
+```
 ---
 
 ## Requisitos
